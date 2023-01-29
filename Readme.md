@@ -4,7 +4,7 @@
 
 ### Použitie
 
-Aplikácia umožňuje užívateľovi získať základné informácie o servery na ktorom beží, medzi ktoré patria:
+Aplikácia umožňuje užívateľovi získať základné informácie o zariadení, na ktorom beží, medzi ktoré patria:
 * získanie doménového mena
 * získanie informácí o CPU
 * aktuálna záťaž servera

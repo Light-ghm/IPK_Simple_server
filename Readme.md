@@ -2,6 +2,8 @@
 
 ### Autor: Marián Backa (xbacka01)
 
+**Hodnotenie:** 20/20b
+
 ### Použitie
 
 Aplikácia umožňuje užívateľovi získať základné informácie o zariadení, na ktorom beží, medzi ktoré patria:
